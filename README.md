@@ -38,4 +38,20 @@ This project demonstrates how I manage **Identity and Access Management (IAM)** 
 ## 🧠 What I Learned
 - Why IAM is critical for cloud security  
 - How to structure users and groups  
-- How least-privilege access reduces risk  
+- How least-privilege access reduces risk
+
+---
+
+ ## 🛠 Skills Demonstrated
+- AWS IAM
+- User, group, and role setup
+- Permission policies (JSON)
+- Least-privilege access
+- Security best practices
+- MFA & credential management
+
+---
+
+**Status:** In Progress  
+**Expected Completion:** December 23, 2025
+
