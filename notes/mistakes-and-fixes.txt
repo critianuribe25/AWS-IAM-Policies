@@ -1,5 +1,0 @@
-Error: Login disabled  
-Fix: Enabled console password access for IAM user.
-
-Error: User able to access admin features  
-Fix: Removed policy directly on user and used group-based permissions only.

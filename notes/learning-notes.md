@@ -1,3 +1,0 @@
-- IAM should always use groups, not direct user policies.
-- Least privilege is safer and easier to manage.
-- IAM is one of AWS’s most important security foundations.
